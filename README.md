@@ -1,6 +1,6 @@
 <a href="">
 
-# Multi-threaded TCP Server
+# Multi-threaded TCP Server and Client Application
 
 # Table of contents
 1. [Introduction](#intro)   
@@ -29,15 +29,15 @@ This file backup is used to initialize the contents of the list when the server 
     
 #### How to run App? <a name="howToRun"></a>
 - Run Server Side 
-     * **Run Server Side First in Eclipse IDE**
+     * **Run Server Side First in the Eclipse IDE**
         * (Run as)[Run.java]
 - Run Client Side
-     * **And Then Run Client Side in Eclipse IDE**
+     * **And Then Run Client Side in the Eclipse IDE**
         * (Run as)[client.java]
     
 
 #### Project Demonstration <a name="demo"></a>
-- Demo  -  Multi-threaded TCP Server
+- Demo  -  Multi-threaded TCP Server and Client Application
      * **Client and Sever**
         * (Client (Left side) and Server (Right Side))[https://i.imgur.com/a9bD2Jc.png]
     * **Client**
