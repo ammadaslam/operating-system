@@ -28,18 +28,18 @@ This file backup is used to initialize the contents of the list when the server 
 
     
 #### How to run App? <a name="howToRun"></a>
-- Run server Side
-     * **Eclipse IDE**
+- Run Server Side 
+     * **Run Server Side First in Eclipse IDE**
         * (Run as)[Run.java]
-- Run client Side
-     * **Eclipse IDE**
+- Run Client Side
+     * **And Then Run Client Side in Eclipse IDE**
         * (Run as)[client.java]
     
 
 #### Project Demonstration <a name="demo"></a>
 - Demo  -  Multi-threaded TCP Server
      * **Client and Sever**
-        * (Client and Server)
+        * (Client (Left side) and Server (Right Side))[https://i.imgur.com/a9bD2Jc.png]
     * **Client**
         * (Create user)[https://i.imgur.com/4XjFKVx.png]
         * (User loggedin)[https://i.imgur.com/UltvCn0.png]
