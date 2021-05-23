@@ -24,7 +24,7 @@ This file backup is used to initialize the contents of the list when the server 
 #### Install Dependencies <a name="install"></a>
 - Project  
     * **Download github project**
-        * (git clone)[https://github.com/ammadaslam/advanced-data-centric-web-applications.git]
+        * (git clone)[https://github.com/ammadaslam/operating-system.git]
 
     
 #### How to run App? <a name="howToRun"></a>
